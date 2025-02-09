@@ -5,3 +5,6 @@ Create new folder and cd to it:<br>
 `mkdir MURP && cd MURP`<br>
 Then, run repo init:<br>
 `repo init --depth=1 -u https://github.com/Meow-Universal-Recovery-Project/manifest.git -b main`<br>
+`repo sync -jX`
+After that, apply patch:
+`patch -p1 < miscellaneous/patches/12.1.diff`
