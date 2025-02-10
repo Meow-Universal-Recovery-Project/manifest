@@ -15,5 +15,5 @@ Then, sync source code:<br>
 `repo init --depth=1 -u https://github.com/Meow-Universal-Recovery-Project/manifest.git -b main`<br>
 `repo sync -jX`<br>
 After that, apply patch:<br>
-`patch -p1 < miscellaneous/patches/12.1.diff`<br>
+`cd build && patch -p1 < ../miscellaneous/patches/12.1.diff && cd ..`<br>
 
