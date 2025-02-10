@@ -5,6 +5,10 @@ Main repository for the manifest files used to get the Meow Universal Recovery P
 > Make sure you have enough space to store MURP source code.
 
 ## Getting Started
+
+> [!CAUTION]
+> Not ready for building, bugs may occur.
+
 First, create new folder and cd to it:<br>
 `mkdir MURP && cd MURP`<br>
 Then, sync source code:<br>
