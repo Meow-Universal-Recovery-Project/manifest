@@ -1,5 +1,9 @@
 # Meow Universal Recovery Project
 Main repository for the manifest files used to get the Meow Universal Recovery Project sources.
+
+> [!NOTE]
+> Make sure you have enough space to store MURP source code.
+
 ## Getting Started
 Create new folder and cd to it:<br>
 `mkdir MURP && cd MURP`<br>
